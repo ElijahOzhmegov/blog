@@ -1,6 +1,7 @@
 ---
 title: Rosa Rosa Rosam
 author: Ovidius
+tags: do not forget to delete me
 ---
 
 Suspendisse pharetra ullamcorper sem et auctor. Suspendisse vitae tellus eu
@@ -9,6 +10,8 @@ dis parturient montes, nascetur ridiculus mus. Morbi aliquam sapien quis nisl
 sodales non aliquet nisl iaculis. Curabitur fermentum orci vel sapien
 pellentesque id condimentum metus vehicula. Curabitur turpis purus, scelerisque
 at interdum quis, placerat sit amet tortor. Aliquam erat volutpat.
+
+<!--more-->
 
 Integer posuere felis non arcu suscipit ullamcorper. Nam tempus risus venenatis
 orci sagittis eu aliquam ante tincidunt. Aenean vehicula ipsum id sapien

@@ -1,17 +1,12 @@
 ---
-title: About
+title: About Me
 ---
-Nullam imperdiet sodales orci vitae molestie. Nunc quam orci, pharetra a
-rhoncus vitae, eleifend id felis. Suspendisse potenti. Etiam vitae urna orci.
-Quisque pellentesque dignissim felis, egestas tempus urna luctus vitae. In hac
-habitasse platea dictumst. Morbi fringilla mattis odio, et mattis tellus
-accumsan vitae.
+Hello friend.
 
-1. Amamus Unicode 碁
-2. Interdum nex magna.
+My name is Ilia Ozhmegov and I am a young programmer, passionate about Computer Science and Mathematics: from the history of creation the first computer to the methods of optimisation in deep learning.
 
-Vivamus eget mauris sit amet nulla laoreet lobortis. Nulla in diam elementum
-risus convallis commodo. Cras vehicula varius dui vitae facilisis. Proin
-elementum libero eget leo aliquet quis euismod orci vestibulum. Duis rhoncus
-lorem consequat tellus vestibulum aliquam. Quisque orci orci, malesuada porta
-blandit et, interdum nec magna.
+I studied at the Faculty of Mechatronics and Robotics of St.Petersburg Polytechnic University. Apart from that, I work for a Scientific Center that is developing software for embedded devices as well as devices itself.
+
+It would be great if you find my blog interesting.
+
+And one more thing. English is not my first language, but I promise doing all my bests. Nevertheless, I will make mistakes. So when you find one, I would be grateful to know.
