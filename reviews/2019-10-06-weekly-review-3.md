@@ -1,9 +1,9 @@
 ---
 title: Weekly Review 2019 Week 40
 author: Ilia Ozhmegov
-tags: review
+tags: review, python, R
 keywords: review
-description: review for 2 weeks at once
+description: review afther a long break
 ---
 
 I have been extremely busy during the last 20 weeks. Business trips, getting place at the German University, getting Visa and lots of different things, so I have not published prepared articles about my favourite text editor VIM, and I have skipped reviews on interesting articles.
@@ -12,7 +12,7 @@ I have been extremely busy during the last 20 weeks. Business trips, getting pla
 
 ## Python
 
-The most interesting thing here for me is pytest, I have been using GoogleTest Framework for some time, so now it is hard for me do not test every piece of code.
+The most interesting thing here for me is pytest, I have been using GoogleTest Framework for some time, so now it is hard do not test every piece of code.
 
 - **[Python Matrices and NumPy Arrays](https://www.programiz.com/python-programming/matrix)**
 - **[How to Generate a Random Number in Python](https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/)**
