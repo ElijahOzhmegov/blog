@@ -20,4 +20,11 @@ Extremely valuable resource, when you need to test your python code.
 I am sick of old inconvenient bash, so I have decided to improve it by going on zsh.
 
 - **[Improving upon the default Mac Terminal to increase Productivity and improve Interface](https://towardsdatascience.com/customising-the-mac-terminal-to-increase-productivity-and-improve-the-interface-894f6d86d573)**
+
+## Stack, Haskell
+
 - **[The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/)**
+
+## Metrics, Software Engineering
+
+- **[Extensive Python Testing on Travis CI](https://blog.travis-ci.com/2019-08-07-extensive-python-testing-on-travis-ci)**
