@@ -9,7 +9,7 @@ I guess this article is useful for those who has some experience in computer sci
 
 <!--more-->
 
-First of all, you need to rent a virtual hosting and domain name for you site. As it's the easiest part of our journey, so this stage wouldn't be covered in this article. Let's focus on technical part.
+First of all, you need to rent a virtual hosting and domain name for your site. As it's the easiest part of our journey, so this stage wouldn't be covered in this article. Let's focus on technical part.
 
 ## 1. Installing <b>stack</b> program
 
@@ -23,7 +23,7 @@ or alternatively on OSX you can do it via **brew** packet manager:
 	$ brew install haskell-stack
 
 ## 2. Installing hakyll library
-But before we getting started I should draw your attention to the version of desired snapshot (bunch of haskell packages) as not all of them have hakyll library. On the moment of writing this article the latest is **lts-12.26**. You can check it out by yourself:
+But before we get started I should draw your attention to the version of desired snapshot (bunch of haskell packages) as not all of them have hakyll library. On the moment of writing this article the latest is **lts-12.26**. You can check it out by yourself:
 
 2.1. Click on [snapshots](https://www.stackage.org/package/hakyll/snapshots); 
 
